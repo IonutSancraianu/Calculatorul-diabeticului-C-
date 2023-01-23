@@ -1,0 +1,33 @@
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\bin\Debug\Calculatorul_Diabeticului2.exe
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\bin\Debug\Calculatorul_Diabeticului2.pdb
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form1.resources
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form3.resources
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form4.resources
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form5.resources
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form6.resources
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Properties.Resources.resources
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.csproj.GenerateResource.Cache
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.exe
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.pdb
+c:\users\chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form2.resources
+C:\Users\Chuckie\OneDrive\Documents\Visual Studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form7.resources
+C:\Users\Chuckie\OneDrive\Documents\Visual Studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form8.resources
+C:\Users\Chuckie\onedrive\documents\visual studio 2010\Projects\Calculatorul_Diabeticului2\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.csprojResolveAssemblyReference.cache
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\bin\Debug\Calculatorul_Diabeticului2.exe.config
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\bin\Debug\Calculatorul_Diabeticului2.exe
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\bin\Debug\Calculatorul_Diabeticului2.pdb
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.csproj.AssemblyReference.cache
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.csproj.SuggestedBindingRedirects.cache
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form1.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form2.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form3.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form4.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form5.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form6.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form7.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Form8.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.Properties.Resources.resources
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.csproj.GenerateResource.cache
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.csproj.CoreCompileInputs.cache
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.exe
+C:\Users\fast\Downloads\OneDrive-2023-01-23\Calculatorul_Diabeticului2\obj\x86\Debug\Calculatorul_Diabeticului2.pdb
